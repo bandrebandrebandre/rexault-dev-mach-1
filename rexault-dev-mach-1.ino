@@ -25,8 +25,8 @@
  */
 
 #include <SPI.h>
-#include <epd1in54.h>
-#include <epdpaint.h>
+#include "epd1in54.h"
+#include "epdpaint.h"
 #include "imagedata.h"
 
 #include "sparkleA.h"
